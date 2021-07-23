@@ -1,0 +1,1 @@
+Spam Detection using machine learning algorithms and deploying it to a local host.
